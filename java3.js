@@ -6,7 +6,7 @@ if (sinal === "+") {alert(`Seu resultado é ${numero1 + numero2}`)
 }
 else if (sinal === "-") {alert(`Seu resultado é ${numero1 - numero2}`)
 }
-else if (sinal === "*") {alert(`Seu resultado é ${numero1 * numero2}`)
+else if (sinal === "×") {alert(`Seu resultado é ${numero1 * numero2}`)
 } 
-else if (sinal === "/") {alert(`Seu resultado é ${numero1 / numero2}`)
+else if (sinal === "÷") {alert(`Seu resultado é ${numero1 / numero2}`)
 }
